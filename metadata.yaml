@@ -1,0 +1,28 @@
+_repo: The-Gay-Gnani-of-GingaleeMysticism-and-Modern-Science_42799
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42799-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Huntley, Florence
+    alias: Huntley, Florence (Chance), Mrs.
+    deathdate: 1912
+    gutenberg_agent_id: '41865'
+    url: http://www.gutenberg.org/2009/agents/41865
+description: ''
+gutenberg_issued: '2013-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mysticism -- Humor'
+- !lcsh 'Religion and science -- Fiction'
+- !lcc 'PS'
+title: "The Gay Gnani of Gingalee; or, Discords of Devolution\r\nA Tragical Entanglement\
+  \ of Modern Mysticism and Modern Science"
+url: http://www.gutenberg.org/ebooks/42799
